@@ -1,1 +1,1 @@
-# NixOS-install
+# # Базовая установка NixOS
